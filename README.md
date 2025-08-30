@@ -22,5 +22,3 @@ This tool helps calculate loan EMIs, track amortization schedules, and simulate 
 
 ---
 
-## 📂 Project Structure
-
